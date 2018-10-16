@@ -1,4 +1,7 @@
 # Create method `parrot` that outputs a given phrase and
 # returns the phrase
-define #parrot
+def #parrot (string)
+  string = []
+  
+end
   
