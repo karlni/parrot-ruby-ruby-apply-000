@@ -1,8 +1,8 @@
 # Create method `parrot` that outputs a given phrase and
 # returns the phrase
-def parrot (argument)
-  string = []
-  if argument = string, "Squawk!"
+def parrot (String)
+  if String = [], p "Squawk!"
+  
   
 end
   
